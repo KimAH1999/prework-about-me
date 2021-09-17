@@ -7,18 +7,18 @@ As a first project, the start of the learning journey has commmenced by understa
 
 ## Installation Usage(note)
 OUTLINE FOR CREATING WEBSITE:
-<!DOCTYPE html>
-<html lang="en-us">
+/*<!DOCTYPE html>*/
+/*<html lang="en-us">*/
 
-<head>
+/*<head>*/
   /*<(...anyhting in header like title, usually, is <meta>,<link>,<title>.)>*/
-</head>
+/*</head>*/
 
-<body>
+/*<body>*/
   /*<(...anything between "body" can be <div>,<p>,<h1>,...)>*/
-</body>
+/*</body>*/
   
-</html>
+/*</html>*/
   
   
 ## Credits
